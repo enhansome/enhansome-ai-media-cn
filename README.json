@@ -1,89 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "一键视频生成"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AI 文生视频模型"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "自媒体运营工具"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "社媒爬虫与竞品分析"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "字幕与本地化"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AI 短剧生成"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AI 视频分析与笔记"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AI 数字人"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "编程式视频制作"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "视频编辑库"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "常见问题"
-    },
-    {
-      "description": "MoneyPrinterTurbo（20k+ stars）是目前最流行、维护最活跃的方案。它覆盖完整流水线：LLM 生成脚本 → TTS 配音 → 字幕生成 → 素材搜索 → 视频合成。",
-      "items": [],
-      "title": "最好的开源一键视频生成工具是什么？"
-    },
-    {
-      "description": "研究级质量首推 Wan2.1（阿里，20k+ stars）和 Open-Sora（22k+ stars）。消费级显卡用户推荐 FramePack，支持固定显存生成任意长度视频。",
-      "items": [],
-      "title": "最好的开源文生视频模型是什么？"
-    },
-    {
-      "description": "social-auto-upload 支持抖音、TikTok、B站、快手、小红书、视频号等主流平台的自动上传，自动填充标题、描述和标签。",
-      "items": [],
-      "title": "如何实现视频多平台一键分发？"
-    },
-    {
-      "description": "欢迎贡献！请先阅读贡献指南。",
-      "items": [],
-      "title": "贡献"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "许可证"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T19:52:19.647Z",
+    "last_updated": "2026-08-19T12:17:02.006Z",
     "original_repository": "JuneYaooo/awesome-ai-media-cn",
+    "original_repository_id": 1215126598,
     "original_repository_sha": "a1be5a57bbf1f6ed13e10438568647482d1049db",
     "enhanced_repository": "enhansome/enhansome-ai-media-cn",
     "enhanced_repository_description": null,
