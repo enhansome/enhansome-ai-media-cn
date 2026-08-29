@@ -10,12 +10,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+            "homepage": null,
             "id": 770153867,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T03:11:21Z",
+            "open_issues": 12,
             "owner": "harry0703",
             "repo": "MoneyPrinterTurbo",
-            "stars": 118183
+            "stars": 118224,
+            "topics": [
+              "ai-video-generator",
+              "content-creation",
+              "ffmpeg",
+              "instagram-reels",
+              "llm",
+              "python",
+              "short-video",
+              "subtitles",
+              "text-to-speech",
+              "tiktok",
+              "video-automation",
+              "video-workflow",
+              "workflow-automation",
+              "youtube-shorts"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -26,12 +46,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automate Creation of YouTube Shorts using MoviePy.",
+            "homepage": null,
             "id": 751008707,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-26T22:17:17Z",
+            "open_issues": 18,
             "owner": "FujiwaraChoki",
             "repo": "MoneyPrinter",
-            "stars": 13900
+            "stars": 13900,
+            "topics": [
+              "automation",
+              "chatgpt",
+              "moviepy",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -42,12 +72,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation",
+            "homepage": "https://short-gpt-dcs.vercel.app",
             "id": 659412092,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-10T19:33:18Z",
+            "open_issues": 86,
             "owner": "RayVentura",
             "repo": "ShortGPT",
-            "stars": 7889
+            "stars": 7889,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "automation",
+              "autonomous-agents",
+              "content",
+              "gpt-4",
+              "openai",
+              "python",
+              "video",
+              "video-editing"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -58,12 +104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Reddit Videos with just✨ one command ✨",
+            "homepage": null,
             "id": 496680191,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T10:12:46Z",
+            "open_issues": 28,
             "owner": "elebumm",
             "repo": "RedditVideoMakerBot",
-            "stars": 12532
+            "stars": 12531,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -74,12 +125,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "利用 AI 大模型，一键解说并剪辑视频",
+            "homepage": "https://www.narratoai.cn",
             "id": 841472636,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T02:49:46Z",
+            "open_issues": 7,
             "owner": "linyqh",
             "repo": "NarratoAI",
-            "stars": 10906
+            "stars": 10907,
+            "topics": [
+              "aiagent",
+              "aiops",
+              "gemini-api",
+              "llm",
+              "moviepy",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -90,12 +153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI LLM,print money together! support:chatTTS,faster-whisper,GPTSoVITS,Azure,tencent Cloud,Ali Cloud.",
+            "homepage": null,
             "id": 798179440,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-07T09:17:07Z",
+            "open_issues": 78,
             "owner": "ddean2009",
             "repo": "MoneyPrinterPlus",
-            "stars": 7020
+            "stars": 7021,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -106,12 +174,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+            "homepage": "https://aidc-ai.github.io/Pixelle-Video/zh",
             "id": 1091534692,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-14T12:40:58Z",
+            "open_issues": 160,
             "owner": "ATH-MaaS",
             "repo": "Pixelle-Video",
-            "stars": 27433
+            "stars": 27433,
+            "topics": [
+              "aigc",
+              "comfyui",
+              "image-generation",
+              "tts",
+              "video-generation"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -122,12 +201,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool",
+            "homepage": "https://short-video-factory.yils.blog",
             "id": 1016509116,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-25T09:38:31Z",
+            "open_issues": 27,
             "owner": "YILS-LIN",
             "repo": "short-video-factory",
-            "stars": 5183
+            "stars": 5185,
+            "topics": [
+              "ai",
+              "automatic",
+              "automation",
+              "clipping",
+              "cross-platform",
+              "desktop",
+              "linux",
+              "mac",
+              "marketing",
+              "pc",
+              "product",
+              "shortvideo",
+              "tiktok",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -138,12 +237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。",
+            "homepage": null,
             "id": 1099023513,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-02T15:00:29Z",
+            "open_issues": 4,
             "owner": "Norsico",
             "repo": "Video-Materials-AutoGEN-Workstation",
-            "stars": 1600
+            "stars": 1600,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -154,12 +258,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+            "homepage": "https://www.openmontage.video/",
             "id": 1195360525,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-22T18:22:24Z",
+            "open_issues": 258,
             "owner": "calesthio",
             "repo": "OpenMontage",
-            "stars": 53367
+            "stars": 53438,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "ai",
+              "claude",
+              "copilot",
+              "cursor",
+              "elevenlabs",
+              "ffmpeg",
+              "flux",
+              "image-generation",
+              "open-source",
+              "openai",
+              "python",
+              "remotion",
+              "stable-diffusion",
+              "text-to-speech",
+              "text-to-video",
+              "video-generation",
+              "video-production"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -170,12 +299,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 AI 全自动化视频生成员工 | Your First AIGC Coworker. Chat an Idea. Get a Film. 🦞",
+            "homepage": null,
             "id": 849386436,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T05:31:29Z",
+            "open_issues": 12,
             "owner": "HITsz-TMG",
             "repo": "VideoClaw",
-            "stars": 1733
+            "stars": 1733,
+            "topics": [
+              "agent",
+              "aigc",
+              "filmmaking",
+              "image-generation",
+              "multi-agent-system",
+              "openclaw",
+              "openclaw-skills",
+              "tts",
+              "video-generation"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -186,12 +330,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-Agent 的视频制作助手，基于 OpenCode AI SDK 和 Remotion 构建。",
+            "homepage": null,
             "id": 1187033792,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-20T03:19:19Z",
+            "open_issues": 0,
             "owner": "bilibili",
             "repo": "carocut",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "ai-agent",
+              "ai-tools",
+              "ai-video-editor",
+              "multi-agent-systems",
+              "video-editor"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -202,12 +357,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "开源 AI 影视解说创作工坊 (Tauri 2 + Rust)。长视频 → AI 拆条 + 多 Agent 智能解说 + 本地 Whisper 字幕 + 配音合成，9:16/1:1/16:9 多格式导出，100% 本地处理零上传。",
+            "homepage": "https://agions.github.io/story-fab/",
             "id": 953523867,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T08:09:51Z",
+            "open_issues": 4,
             "owner": "Agions",
             "repo": "story-fab",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "ai-video-editing",
+              "automation",
+              "content-creation",
+              "desktop-application",
+              "ffmpeg",
+              "react",
+              "rust",
+              "short-video",
+              "social-media-tools",
+              "subtitle-generator",
+              "tauri",
+              "typescript",
+              "video-editing",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -218,12 +393,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于MoneyPrinterTurbo，AI生成分镜大纲与视频（动态，不是念ppt），接入万相通义wan2.1 ai文生视频、图生视频功能，灵活把控视频生成。Based on MoneyPrinterTurbo, AI generates image outline and video (dynamic, not ppt), and integrates wan2.1 text-to-video and image-to-video functions to flexibly control video generation.",
+            "homepage": null,
             "id": 965038276,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-25T11:01:54Z",
+            "open_issues": 10,
             "owner": "q1uki",
             "repo": "MoneyPrinterAICreate",
-            "stars": 324
+            "stars": 324,
+            "topics": [
+              "aigc",
+              "chatgpt",
+              "deepseek",
+              "kimi",
+              "python",
+              "shortvideo",
+              "video",
+              "wan21"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -234,12 +423,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "开演AI 将影视创作全流程整合到一个强大的平台中。从剧本创作到视频制作，我们的AI工具帮助创作者更快地将故事变为现实。  核心优势：  🎯 一站式解决方案 - 剧本、分镜、图像、视频一站式完成 🤖 AI驱动 - 智能解析、生成和优化 ⚡ 极速创作 - 秒级生成分镜，告别繁琐工作 🎨 专业品质 - 电影级输出质量",
+            "homepage": null,
             "id": 1156300324,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-03-29T15:48:06Z",
+            "open_issues": 0,
             "owner": "xiashao",
             "repo": "KaiyanTool",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "ai-agents",
+              "ai-tools"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -250,12 +447,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vynaro (叙影 AI) - 下一代 7 步全自动 AI 影视解说与第一人称视频创作工具 (Tauri 2 + Rust + React 19)",
+            "homepage": "https://agions.github.io/splicr/",
             "id": 940687176,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T05:29:08Z",
+            "open_issues": 0,
             "owner": "Agions",
             "repo": "splicr",
-            "stars": 417
+            "stars": 417,
+            "topics": [
+              "ai-video",
+              "capcut",
+              "ffmpeg",
+              "first-person-narrator",
+              "react",
+              "rust",
+              "subtitle-generator",
+              "tauri",
+              "text-to-speech",
+              "typescript",
+              "video-editing",
+              "video-narration",
+              "vynaro"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -266,12 +482,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "这是一个基于本地大模型 (Ollama) 和 Python 的自动化视频剪辑工具。它能根据文案自动分析分镜、匹配素材、生成语音(TTS)、添加音效、背景音乐，并渲染出带特效字幕的短视频。",
+            "homepage": null,
             "id": 1125690242,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-02-11T08:24:55Z",
+            "open_issues": 0,
             "owner": "rancho-houyaohui",
             "repo": "auto_video_maker",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -282,12 +503,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 AI 全自动化视频生成员工 | Your First AIGC Coworker. Chat an Idea. Get a Film. 🦞",
+            "homepage": null,
             "id": 849386436,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T05:31:29Z",
+            "open_issues": 12,
             "owner": "HITsz-TMG",
             "repo": "VideoClaw",
-            "stars": 1733
+            "stars": 1733,
+            "topics": [
+              "agent",
+              "aigc",
+              "filmmaking",
+              "image-generation",
+              "multi-agent-system",
+              "openclaw",
+              "openclaw-skills",
+              "tts",
+              "video-generation"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -298,12 +534,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "自动生成电商带货短视频：上传商品图，AI 生成脚本、素材并合成视频，适配抖音、快手、小红书",
+            "homepage": null,
             "id": 1212324108,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-28T04:56:47Z",
+            "open_issues": 0,
             "owner": "witty-suckerpunch492",
             "repo": "daihuo-jianshou",
-            "stars": 241
+            "stars": 241,
+            "topics": [
+              "ai-video-generation",
+              "ffmpeg",
+              "flux",
+              "kling",
+              "kuaishou",
+              "nextjs",
+              "seedance",
+              "short-video",
+              "text-to-video",
+              "tiktok",
+              "typescript",
+              "veo3",
+              "video-editing",
+              "vidu",
+              "xiaohongshu"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -314,12 +571,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI驱动的长视频高光剪辑工具，自动将数小时的课程、访谈、直播回放转化为数十个爆款短视频。内置Whisper语音识别、大模型(LLM)智能评分与标题生成。 video-processing, ai-content-creation, nlp, openai-whisper, llm, automation, pyqt5, ffmpeg, bot.",
+            "homepage": null,
             "id": 1113938043,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-08T04:58:00Z",
+            "open_issues": 1,
             "owner": "toki-plus",
             "repo": "ai-highlight-clip",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "ai-content-creation",
+              "automation",
+              "content-creation",
+              "ffmpeg",
+              "llm",
+              "nlp",
+              "openai-whisper",
+              "pyqt5",
+              "python",
+              "short-video",
+              "video-editing",
+              "video-processing"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -330,12 +605,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "颠覆性AI内容再创作引擎，通过“解构-重构”爆款视频模式，全自动生成高度原创短视频。AIGC, Content Creation, Video Generation, Automation, LLM, Python, FFmpeg.",
+            "homepage": null,
             "id": 1114027351,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-08T05:13:26Z",
+            "open_issues": 1,
             "owner": "toki-plus",
             "repo": "ai-mixed-cut",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "aigc",
+              "automation",
+              "content-creation",
+              "content-repurposing",
+              "content-strategy",
+              "ffmpeg",
+              "generative-ai",
+              "llm",
+              "nlp",
+              "pyqt5",
+              "python",
+              "selenium",
+              "short-video",
+              "text-to-video",
+              "video-editing",
+              "video-generation",
+              "video-processing"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -346,12 +644,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "多模态 AI 内容创作平台，支持 Google Gemini、火山引擎 Seedream/Seedance 等模型进行图像和视频生成。",
+            "homepage": "https://xiaoye.io",
             "id": 1189331058,
             "language": "Vue",
+            "license": "AGPL-3.0",
             "last_commit": "2026-06-17T10:23:07Z",
+            "open_issues": 3,
             "owner": "capybara-zy",
             "repo": "xiaoye-ai",
-            "stars": 301
+            "stars": 301,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -362,12 +665,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "全自动AI原生视频生成工作流，集成文生图(LibLib)/图生视频(即梦)/文生音乐(即梦)和AI提示词生成(豆包)，一键创作AIGC短视频。generative-ai, text-to-video, image-to-video, text-to-music, aigc, automation, pyqt5.",
+            "homepage": null,
             "id": 1113998904,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-08T05:12:21Z",
+            "open_issues": 1,
             "owner": "toki-plus",
             "repo": "ai-video-workflow",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "ai-content-creation",
+              "aigc",
+              "automation",
+              "bot",
+              "content-creation",
+              "ffmpeg",
+              "llm",
+              "pyqt5",
+              "python",
+              "short-video",
+              "tiktok",
+              "video-processing"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -378,12 +699,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎬 开源 AI 视频工作室 — 从一句话到成片。支持创意模式（AI 导演全流程自动生成）和批量模式（批量生产短视频）。Open-source AI video studio — from one sentence to final video. Supports creative mode (AI director full workflow) and batch mode (bulk short video production)",
+            "homepage": null,
             "id": 1227658387,
             "language": "TypeScript",
+            "license": "LGPL-3.0",
             "last_commit": "2026-05-29T09:43:33Z",
+            "open_issues": 1,
             "owner": "seme-org",
             "repo": "open-director",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "ai-video",
+              "gemini",
+              "nextjs",
+              "openai",
+              "storyboard",
+              "subtitle",
+              "text-to-video",
+              "video-generator"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -394,12 +729,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 AI 带货短视频神器——上传一张商品图，AI 自动提炼卖点 + 写种草脚本 + 锁定商品原图不变形 + 配画面/配音/字幕，一键产出抖音小店 / 快手 / 小红书 / TikTok Shop 卖货短视频。0 成本批量出片、开源无水印、本地自部署。也支持一句话主题成片。Open-source AI e-commerce/UGC short-video generator.",
+            "homepage": "https://xixihhhh.github.io/clipforge/",
             "id": 1189419041,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T04:13:44Z",
+            "open_issues": 1,
             "owner": "xixihhhh",
             "repo": "clipforge",
-            "stars": 649
+            "stars": 652,
+            "topics": [
+              "ai-ugc",
+              "ai-video-creator",
+              "ai-video-generator",
+              "ai-voiceover",
+              "aigc",
+              "douyin",
+              "ecommerce",
+              "faceless-video",
+              "ffmpeg",
+              "kuaishou",
+              "mcp",
+              "mcp-server",
+              "nextjs",
+              "reels",
+              "self-hosted",
+              "short-video",
+              "text-to-video",
+              "tiktok",
+              "xiaohongshu",
+              "youtube-shorts"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -410,12 +771,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一款专门解决抖音/TikTok/快手/小红书电商商家在短视频营销中“痛点”的 平台。通过「商品信息输入/URL 卖点提取 ➔ AI 智能脚本生成 ➔ 数字人选择与克隆 ➔ 多语言智能翻译 ➔ 分镜编辑 ➔ 素材混剪 ➔ 视频异步合成 ➔ 多平台一键发布」的完整Agent端到端闭环，帮助商家以极低成本快速产出高转化潜力的带货视频。",
+            "homepage": "https://f.playe.top",
             "id": 1270985920,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-27T06:38:42Z",
+            "open_issues": 1,
             "owner": "wyxpro",
             "repo": "Shopro-AI",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         }
@@ -432,12 +798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "homepage": "https://hpcaitech.github.io/Open-Sora/",
             "id": 760231710,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-09T01:52:40Z",
+            "open_issues": 13,
             "owner": "hpcaitech",
             "repo": "Open-Sora",
-            "stars": 29319
+            "stars": 29319,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -448,12 +819,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wan: Open and Advanced Large-Scale Video Generative Models",
+            "homepage": "https://wan.video",
             "id": 938717878,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-05T09:38:07Z",
+            "open_issues": 378,
             "owner": "Wan-Video",
             "repo": "Wan2.1",
-            "stars": 16904
+            "stars": 16905,
+            "topics": [
+              "aigc",
+              "videogeneration"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -464,12 +843,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lets make video diffusion practical!",
+            "homepage": null,
             "id": 965159463,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-16T01:28:50Z",
+            "open_issues": 488,
             "owner": "lllyasviel",
             "repo": "FramePack",
-            "stars": 17230
+            "stars": 17230,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -480,12 +864,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+            "homepage": null,
             "id": 497512032,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-04T11:19:04Z",
+            "open_issues": 117,
             "owner": "zai-org",
             "repo": "CogVideo",
-            "stars": 12982
+            "stars": 12982,
+            "topics": [
+              "cogvideox",
+              "image-to-video",
+              "llm",
+              "sora",
+              "text-to-video",
+              "video-generation"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -496,12 +892,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HunyuanVideo: A Systematic Framework For Large Video Generation Model",
+            "homepage": "https://aivideo.hunyuan.tencent.com",
             "id": 895453957,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-29T09:33:50Z",
+            "open_issues": 183,
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanVideo",
-            "stars": 12488
+            "stars": 12490,
+            "topics": [
+              "diffusion-models",
+              "diffusion-transformer",
+              "video-generation"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -512,12 +917,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HunyuanVideo-1.5: A leading lightweight video generation model",
+            "homepage": "https://hunyuan.tencent.com/video/zh?tabIndex=0",
             "id": 1100328089,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-10T06:14:59Z",
+            "open_issues": 37,
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanVideo-1.5",
-            "stars": 4536
+            "stars": 4537,
+            "topics": [
+              "image-to-video",
+              "text-to-video",
+              "video-generation"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -528,12 +942,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of AnimateDiff.",
+            "homepage": "https://animatediff.github.io",
             "id": 654930782,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-31T01:14:15Z",
+            "open_issues": 319,
             "owner": "guoyww",
             "repo": "AnimateDiff",
-            "stars": 12229
+            "stars": 12229,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -544,12 +963,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "豆包 Seedance 1.5 Pro 视频生成 基于豆包 AI 的视频生成工具，支持文生视频和图生视频。提供 Gradio Web UI 和 RESTful API 两种使用方式，可通过 Docker 一键部署。 功能包括参数配置、实时进度显示、视频播放 / 下载、自动轮询、视频代理下载及多账号负载均衡。支持多种视频时长、比例和模型选择，方便开发者快速集成视频生成能力。",
+            "homepage": null,
             "id": 1124517530,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-23T08:56:01Z",
+            "open_issues": 1,
             "owner": "wwwzhouhui",
             "repo": "doubao-seedance-ttv-itv",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -560,12 +984,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ClipForge（原『带货剪手』/ daihuo-jianshou）：开源 AI 带货短视频神器——上传一张商品图，AI 自动提炼卖点 + 写种草脚本 + 锁定商品原图不变形 + 配画面/配音/字幕，一键产出抖音小店 / 快手 / 小红书 / TikTok Shop 卖货短视频。0 成本批量出片、开源无水印、本地自部署。也支持一句话主题成片。Open-source AI e-commerce/UGC short-video generator.",
+            "homepage": "https://xixihhhh.github.io/clipforge/",
             "id": 1189419041,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T04:13:44Z",
+            "open_issues": 1,
             "owner": "xixihhhh",
             "repo": "clipforge",
-            "stars": 649
+            "stars": 652,
+            "topics": [
+              "ai-ugc",
+              "ai-video-creator",
+              "ai-video-generator",
+              "ai-voiceover",
+              "aigc",
+              "douyin",
+              "ecommerce",
+              "faceless-video",
+              "ffmpeg",
+              "kuaishou",
+              "mcp",
+              "mcp-server",
+              "nextjs",
+              "reels",
+              "self-hosted",
+              "short-video",
+              "text-to-video",
+              "tiktok",
+              "xiaohongshu",
+              "youtube-shorts"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -576,12 +1026,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " AI 驱动的短视频制作系统。给它一个想法，它帮你写稿、配音、做画面、出成片。9 阶段 DAG 管线 + 自进化评分，支持每日自动执行。基于 Claude Code + HyperFrames。",
+            "homepage": null,
             "id": 1234736795,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T12:15:36Z",
+            "open_issues": 0,
             "owner": "Johnson-Jia",
             "repo": "video-clipforge",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "automation",
+              "claude-code",
+              "dag",
+              "douyin",
+              "html",
+              "hyperframes",
+              "python",
+              "self-evolving",
+              "short-video",
+              "text-to-video",
+              "tiktok",
+              "tts",
+              "video-generation"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         }
@@ -598,12 +1067,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+            "homepage": "https://postiz.com",
             "id": 664013991,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-29T00:07:57Z",
+            "open_issues": 272,
             "owner": "gitroomhq",
             "repo": "postiz-app",
-            "stars": 35239
+            "stars": 35239,
+            "topics": [
+              "nextjs",
+              "open-source",
+              "open-source-social-media-scheduling-tool",
+              "oss",
+              "redis",
+              "scheduling-tool",
+              "social-media-scheduling-tool",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -614,12 +1097,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
+            "homepage": "https://sap-doc.nasdaddy.com/",
             "id": 727109010,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-19T21:14:05Z",
+            "open_issues": 63,
             "owner": "dreammis",
             "repo": "social-auto-upload",
-            "stars": 14644
+            "stars": 14647,
+            "topics": [
+              "bilibili",
+              "douyin",
+              "tiktok",
+              "xiaohongshu",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -630,12 +1124,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "matrix是抖音，快手，视频号，小红书等短视频矩阵内容分发系统的脚本代码，基于python3，旨在借助playwright实现自动化发布视频到各个社交媒体平台",
+            "homepage": null,
             "id": 800801484,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-27T01:36:59Z",
+            "open_issues": 2,
             "owner": "kebenxiaoming",
             "repo": "matrix",
-            "stars": 955
+            "stars": 955,
+            "topics": [
+              "douyin",
+              "kuaishou",
+              "matrix",
+              "video",
+              "wechat",
+              "xhs"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -646,12 +1152,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "全自动短视频搬运工具，支持自动下载、去重、AI生成标题+标签、上传，可二开扩展至多平台，例如：TikTok->视频号/抖音/小红书、抖音->TikTok/视频号/小红书......video-processing, automation, tiktok, selenium, pyqt5, ffmpeg, bot, data-scraping, video-deduplication.",
+            "homepage": null,
             "id": 958516336,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-08T10:37:36Z",
+            "open_issues": 5,
             "owner": "toki-plus",
             "repo": "video-mover",
-            "stars": 568
+            "stars": 569,
+            "topics": [
+              "automation",
+              "bot",
+              "data-scraping",
+              "ffmpeg",
+              "pyqt5",
+              "selenium",
+              "tiktok",
+              "video-deduplication",
+              "video-processing"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -662,12 +1183,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot.",
+            "homepage": "https://brightbean.xyz/studio/",
             "id": 1191561598,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-13T09:13:17Z",
+            "open_issues": 26,
             "owner": "brightbeanxyz",
             "repo": "brightbean-studio",
-            "stars": 2211
+            "stars": 2212,
+            "topics": [
+              "agpl",
+              "buffer-alternative",
+              "content-management",
+              "django",
+              "docker",
+              "htmx",
+              "multi-platform",
+              "open-source",
+              "python",
+              "scheduling",
+              "self-hosted",
+              "social-media",
+              "social-media-management",
+              "social-media-scheduler",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -678,12 +1220,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fully functional automated video processing system that supports downloading videos from platforms such as YouTube, automatically generating subtitles, translating content, creating metadata, and scheduling uploads to Bilibili.",
+            "homepage": null,
             "id": 1096151262,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-08-12T01:54:33Z",
+            "open_issues": 0,
             "owner": "difyz9",
             "repo": "ytb2bili",
-            "stars": 1620
+            "stars": 1620,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -694,12 +1241,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PostBot 内容同步助手 一款开源的多平台内容同步分发生产力工具。 支持将文章、笔记、动态、图片、视频、音频等内容，一键同步发布至主流媒体平台。覆盖微信/微博/今日头条/小红书/知乎/百家号/企鹅号/视频号/抖音/快手/哔哩哔哩（B站）等国内主流媒体平台，可轻松扩展兼容 X（Twitter）、Facebook、Instagram、TikTok、YouTube、LinkedIn 等国际媒体平台。",
+            "homepage": null,
             "id": 993337866,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-30T15:58:33Z",
+            "open_issues": 4,
             "owner": "gitcoffee-os",
             "repo": "postbot",
-            "stars": 1284
+            "stars": 1284,
+            "topics": [
+              "article",
+              "audio",
+              "automation",
+              "blog",
+              "cms",
+              "content",
+              "html",
+              "image-text",
+              "markdown",
+              "marketing",
+              "marketing-automation",
+              "media",
+              "multiplatform",
+              "note",
+              "podcast",
+              "productivity-tools",
+              "social-media",
+              "video"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -710,12 +1281,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力",
+            "homepage": "https://www.wechatsync.com?utm_source=github_info",
             "id": 291947996,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-27T05:33:56Z",
+            "open_issues": 36,
             "owner": "wechatsync",
             "repo": "Wechatsync",
-            "stars": 6242
+            "stars": 6242,
+            "topics": [
+              "blog",
+              "chrome",
+              "chrome-extension",
+              "markdown",
+              "multiplatform",
+              "spider",
+              "vue",
+              "wechat-official-account",
+              "writer"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -726,12 +1312,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "自动直播录制、投稿、twitch、ytb频道搬运工具。命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。",
+            "homepage": "https://biliup.github.io/biliup/",
             "id": 116561419,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-25T07:50:40Z",
+            "open_issues": 275,
             "owner": "biliup",
             "repo": "biliup",
-            "stars": 5383
+            "stars": 5384,
+            "topics": [
+              "bilibili",
+              "douyin",
+              "douyu",
+              "huya",
+              "twitch",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -742,12 +1340,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SyncCaster 是一款用于多平台内容分发的 Chrome 浏览器扩展，支持从自撰写/网页采集文章并统一转换为 Markdown，通过 DOM 自动化方式将内容一键同步发布到掘金、CSDN、知乎、微信公众号等多个主流平台，适合需要高效进行多平台内容发布的技术博主和内容创作者。",
+            "homepage": "https://ryanyipeng.github.io/SyncCaster/",
             "id": 1122106428,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T07:15:51Z",
+            "open_issues": 8,
             "owner": "RyanYipeng",
             "repo": "SyncCaster",
-            "stars": 490
+            "stars": 490,
+            "topics": [
+              "automation",
+              "blog-publishing",
+              "chrome-extension",
+              "content-creator",
+              "editor",
+              "katex",
+              "latex",
+              "markdown",
+              "plugin",
+              "typescript",
+              "vue3",
+              "wechat"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -758,12 +1374,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AIWriteX - 微信公众号全自动AI工具：全网热搜舆情聚合+趋势分析+爆款选题+文章采集+一键生成排版发布 | AI自动配图 | 去AI味、过朱雀检测 | 支持小红书/百家号/头条等多平台 | 洗稿润色支持多账号 | 专家赛道 | 短视频文案 | 手机控制 | 小说连载 | 爆文10w+神器",
+            "homepage": "https://aiwritex.voidai.cc",
             "id": 959050247,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T07:53:29Z",
+            "open_issues": 1,
             "owner": "iniwap",
             "repo": "AIWriteX",
-            "stars": 1907
+            "stars": 1907,
+            "topics": [
+              "agents",
+              "ai-agents",
+              "ai-auto-wxgzh",
+              "ai-wx",
+              "aipy",
+              "aipyapp",
+              "aixiezuo",
+              "baowen",
+              "crewai",
+              "gongzhonghao-a",
+              "openclaw",
+              "qu-ai-wei",
+              "search-tool",
+              "web-search",
+              "wechat",
+              "weixin",
+              "wx",
+              "wx-template",
+              "wxgzh",
+              "xiaohongshu"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -774,12 +1416,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI协助批量定时自动化发布/上传至多个平台，支持平台「抖音/小红书/快手/视频号/B站/Youtube/Tiktok」，支持已发布抖音/B站账号的视频数据回收；逐步实现AI自动化矩阵发布上传全流程。",
+            "homepage": null,
             "id": 1137289005,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T03:24:22Z",
+            "open_issues": 4,
             "owner": "Laihiujin",
             "repo": "Prism",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -790,12 +1437,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "开箱即用的自媒体 AI 工作台｜小红书版OpenClaw、小红书AI工作台，AI写作+图片，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy",
+            "homepage": "https://beav.me/",
             "id": 995842113,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T15:42:44Z",
+            "open_issues": 18,
             "owner": "Jamailar",
             "repo": "Beav",
-            "stars": 1527
+            "stars": 1528,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "content-creation",
+              "harness-engineering",
+              "hermes",
+              "hermes-agent",
+              "openclaw",
+              "skills",
+              "xhs",
+              "xhs-downloader",
+              "xhs-tool",
+              "xiaohongshu",
+              "xiaohongshu-downloader",
+              "xiaohongshu-scraper"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -806,12 +1473,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 Apache Airflow 的微信智能应用编排框架，通过可视化工作流驱动 AI 与数据自动化任务。支持 智能客服（多轮对话/知识库）、AI 图文/短视频生成、智能提醒等应用，灵活扩展多模态交互与大模型能力。",
+            "homepage": null,
             "id": 914194407,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:37:10Z",
+            "open_issues": 4,
             "owner": "claude89757",
             "repo": "wechat-on-airflow",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "airflow",
+              "chatbot",
+              "wechat"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -822,12 +1498,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控",
+            "homepage": null,
             "id": 981108483,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T02:18:19Z",
+            "open_issues": 13,
             "owner": "fqscfqj",
             "repo": "Y2A-Auto",
-            "stars": 2855
+            "stars": 2858,
+            "topics": [
+              "acfun",
+              "bilibili"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -838,12 +1522,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A browser extension that helps users publish content to multiple social media platforms with one click.",
+            "homepage": "https://multipost.app",
             "id": 887031138,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T07:16:27Z",
+            "open_issues": 21,
             "owner": "leaperone",
             "repo": "MultiPost-Extension",
-            "stars": 3106
+            "stars": 3109,
+            "topics": [
+              "article",
+              "automation",
+              "content-platform",
+              "marketing",
+              "marketing-automation",
+              "social-media"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -854,12 +1550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "厉影AI短视频智能体，2026超级IP智能体6.0，深度融合云端算力调度、自然语言处理、语音合成、数字人驱动、视频剪辑与多平台分发能力。用户仅需简单设置，即可一键完成从内容提取、文案仿写、声音克隆、数字人口播，到画中画、多机位混剪、字幕配乐、标题封面生成，再到全平台发布的完整自动化流程。",
+            "homepage": null,
             "id": 1214207265,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-19T05:50:49Z",
+            "open_issues": 0,
             "owner": "liying-main",
             "repo": "liying_ai",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         }
@@ -876,12 +1577,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
+            "homepage": "https://nanmicoder.github.io/MediaCrawler/",
             "id": 651517185,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-14T08:19:00Z",
+            "open_issues": 191,
             "owner": "NanmiCoder",
             "repo": "MediaCrawler",
-            "stars": 63995
+            "stars": 63999,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -892,12 +1598,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "抖音爬虫——采集账号主页、喜欢、收藏、音乐原声、话题、搜索、合集、作品、关注、粉丝等公开数据。",
+            "homepage": null,
             "id": 497470134,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-14T09:08:41Z",
+            "open_issues": 0,
             "owner": "erma0",
             "repo": "douyin",
-            "stars": 1604
+            "stars": 1604,
+            "topics": [
+              "crawler",
+              "douyin",
+              "python",
+              "spider"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -908,12 +1624,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于小红书 Web 端进行的请求封装。https://reajason.github.io/xhs/",
+            "homepage": null,
             "id": 622797487,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-01T08:14:59Z",
+            "open_issues": 48,
             "owner": "ReaJason",
             "repo": "xhs",
-            "stars": 2202
+            "stars": 2202,
+            "topics": [
+              "crawl",
+              "python",
+              "xhs"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -924,12 +1649,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "用于爬取Bilibili（B站）视频评论的爬虫🕷️，支持爬取一级评论及二级回复😊，并将数据导出为CSV文件。通过输入视频的BV号，脚本会自动获取视频信息并抓取相关评论，包含用户基本信息、评论内容、IP属地、头像、会员、等级等字段😉😉。",
+            "homepage": null,
             "id": 955196973,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-25T13:35:04Z",
+            "open_issues": 13,
             "owner": "1dyer",
             "repo": "bilibili-comment-crawler",
-            "stars": 189
+            "stars": 189,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -940,12 +1670,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance asynchronous Douyin(抖音) TikTok Xiaohongshu(小红书) Kuaishou(快手) Weibo(微博) Instagram YouTube(油管) Twitter(X) Captcha Solver(验证码解决器) Temp Mail(临时邮箱) API(接口).",
+            "homepage": "https://pypi.org/project/tikhub/",
             "id": 579302294,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-05T06:21:59Z",
+            "open_issues": 0,
             "owner": "TikHub",
             "repo": "TikHub-API-Python-SDK",
-            "stars": 866
+            "stars": 866,
+            "topics": [
+              "api",
+              "captcha-solver",
+              "crawler",
+              "data-api",
+              "douyin",
+              "douyin-tiktok-api",
+              "instagram",
+              "kuaishou",
+              "netease-cloud-music",
+              "private-api",
+              "scrapy",
+              "tiktok",
+              "twitter",
+              "weibo",
+              "xiaohongshu",
+              "xiguashipin"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -956,12 +1708,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Videodl: A lightweight video downloader written in pure python. (轻量级视频下载器，优先高清无水印，支持抖音，快手，小红书，B站，TikTok，YouTube，FIFA+，优酷，腾讯，爱奇艺，1905电影网，乐视，芒果，咪咕，PPTV，搜狐，Facebook，Twitter，新浪微博，今日头条，网易公开课，全民K歌，CCTV央视频，酷狗音乐MV，新片场，知乎，百度贴吧，TED等海量流媒体平台)",
+            "homepage": "https://videofetch.readthedocs.io/",
             "id": 140395644,
             "language": "Python",
-            "last_commit": "2026-08-28T05:06:19Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:41:44Z",
+            "open_issues": 13,
             "owner": "CharlesPikachu",
             "repo": "videodl",
-            "stars": 2689
+            "stars": 2690,
+            "topics": [
+              "acfun",
+              "baidu",
+              "bilibili",
+              "cntv",
+              "crawler",
+              "douyin",
+              "kuaishou",
+              "mgtv",
+              "migu",
+              "pear",
+              "pipixia",
+              "quanmin",
+              "ted",
+              "tieba",
+              "tiktok",
+              "video-downloader",
+              "weibo",
+              "youtube",
+              "youtube-api",
+              "youtube-dl"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -972,12 +1750,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang短视频去水印：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频...",
+            "homepage": null,
             "id": 513091823,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-21T01:23:32Z",
+            "open_issues": 13,
             "owner": "wujunwei928",
             "repo": "parse-video",
-            "stars": 1021
+            "stars": 1021,
+            "topics": [
+              "crawler",
+              "douyin",
+              "kuaishou",
+              "spider",
+              "video",
+              "video-crawler",
+              "video-spider",
+              "weibo"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -988,12 +1780,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "开箱即用的自媒体 AI 工作台｜小红书版OpenClaw、小红书AI工作台，AI写作+图片，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy",
+            "homepage": "https://beav.me/",
             "id": 995842113,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T15:42:44Z",
+            "open_issues": 18,
             "owner": "Jamailar",
             "repo": "Beav",
-            "stars": 1527
+            "stars": 1528,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "content-creation",
+              "harness-engineering",
+              "hermes",
+              "hermes-agent",
+              "openclaw",
+              "skills",
+              "xhs",
+              "xhs-downloader",
+              "xhs-tool",
+              "xiaohongshu",
+              "xiaohongshu-downloader",
+              "xiaohongshu-scraper"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         }
@@ -1010,12 +1822,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+            "homepage": "https://docs.videolingo.io",
             "id": 840286946,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T15:23:27Z",
+            "open_issues": 210,
             "owner": "Huanshere",
             "repo": "VideoLingo",
-            "stars": 18279
+            "stars": 18283,
+            "topics": [
+              "ai-translation",
+              "dubbing",
+              "localization",
+              "video-translation",
+              "voice-cloning"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1026,12 +1849,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTube, TikTok, Bilibili, Douyin, and more.AI视频翻译配音工具，面向人类与AI Agent，100+语言全链路，CLI分阶段调用，适配抖音、小红书、哔哩哔哩、视频号、TikTok、YouTube",
+            "homepage": "https://github.com/krillinai/content-marketing-skills",
             "id": 904490600,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T13:09:09Z",
+            "open_issues": 36,
             "owner": "krillinai",
             "repo": "KrillinAI",
-            "stars": 11283
+            "stars": 11283,
+            "topics": [
+              "dubbing",
+              "localization",
+              "tts",
+              "video-transcription",
+              "video-translation"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1042,12 +1876,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[support ollama/other model]【兼容ollama和其他模型】将任何具有OpenAI API调用方法的模型集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。 This real-time subtitle translation plugin integrates OpenAI's ChatGPT API (or any model with the same API calling method) into PotPlayer. It enables you to translate subtitles on-the-fly while watching videos. ",
+            "homepage": null,
             "id": 891226379,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T15:24:15Z",
+            "open_issues": 3,
             "owner": "Felix3322",
             "repo": "PotPlayer_ChatGPT_Translate",
-            "stars": 1029
+            "stars": 1029,
+            "topics": [
+              "ai-translator",
+              "anglescript",
+              "api",
+              "chatgpt",
+              "chatgpt-api",
+              "language",
+              "language-model",
+              "languages",
+              "llm",
+              "openai",
+              "openai-api",
+              "player-video",
+              "plugin",
+              "plugins",
+              "potplayer",
+              "potplayer-extension",
+              "script",
+              "scripts",
+              "translate",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1058,12 +1918,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.",
+            "homepage": null,
             "id": 709603902,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-30T01:06:52Z",
+            "open_issues": 185,
             "owner": "YaoFANGUK",
             "repo": "video-subtitle-remover",
-            "stars": 12589
+            "stars": 12590,
+            "topics": [
+              "ai",
+              "deepleanring",
+              "sub-remove",
+              "subtile",
+              "vsr"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1074,12 +1945,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Faster Whisper transcription with CTranslate2",
+            "homepage": null,
             "id": 600368121,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-19T14:40:46Z",
+            "open_issues": 319,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 25129
+            "stars": 25129,
+            "topics": [
+              "deep-learning",
+              "inference",
+              "openai",
+              "quantization",
+              "speech-recognition",
+              "speech-to-text",
+              "transformer",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1090,12 +1975,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Port of OpenAI's Whisper model in C/C++",
+            "homepage": null,
             "id": 541269386,
             "language": "C++",
-            "last_commit": "2026-08-25T13:11:32Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:28:05Z",
+            "open_issues": 1238,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53261
+            "stars": 53263,
+            "topics": [
+              "inference",
+              "openai",
+              "speech-recognition",
+              "speech-to-text",
+              "transformer",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1106,12 +2003,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.",
+            "homepage": "https://www.videocaptioner.cn",
             "id": 881171866,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-19T18:30:44Z",
+            "open_issues": 198,
             "owner": "WEIFENG2333",
             "repo": "VideoCaptioner",
-            "stars": 15796
+            "stars": 15798,
+            "topics": [
+              "ai",
+              "subtitle",
+              "translate",
+              "video-subtile"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1122,12 +2029,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source computer-aided translation tool for audios and videos",
+            "homepage": "https://www.basiccat.org/silhouette",
             "id": 909627299,
             "language": "B4X",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-01T04:09:31Z",
+            "open_issues": 2,
             "owner": "xulihang",
             "repo": "Silhouette",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "computer-aided-translation",
+              "forced-alignment",
+              "mac",
+              "speech-recognition",
+              "subtitle",
+              "vad",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1138,12 +2058,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transcribe and translate voice into LRC file using Whisper and LLMs (GPT, Claude, et,al). 使用whisper和LLM(GPT，Claude等)来转录、翻译你的音频为字幕文件。",
+            "homepage": "https://zh-plus.github.io/openlrc/",
             "id": 651267183,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T09:21:25Z",
+            "open_issues": 5,
             "owner": "zh-plus",
             "repo": "openlrc",
-            "stars": 675
+            "stars": 675,
+            "topics": [
+              "auto-subtitle",
+              "faster-whisper",
+              "lyrics",
+              "lyrics-generator",
+              "openai-api",
+              "openlrc",
+              "python",
+              "speech-to-text",
+              "subtitle-translation",
+              "transcribe",
+              "voice-to-text",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1154,12 +2092,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一站式全自动字幕生成软件，下载、转录、翻译、压制全流程覆盖，无需人工介入 / One-stop automated subtitle generator. Handles downloading, transcription, translation, and hardcoding—zero human intervention required.",
+            "homepage": "https://miosub.app",
             "id": 1102007523,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-18T17:32:46Z",
+            "open_issues": 5,
             "owner": "corvo007",
             "repo": "MioSub",
-            "stars": 807
+            "stars": 807,
+            "topics": [
+              "alignment",
+              "ass-subtitles",
+              "captions",
+              "diarization",
+              "ffmpeg",
+              "forced-alignment",
+              "gemini-api",
+              "gemini-subtitle-pro",
+              "i18n",
+              "speaker-diarization",
+              "speech-to-text",
+              "srt-subtitles",
+              "substation-alpha",
+              "subtitle-generator",
+              "subtitle-translation",
+              "subtitles",
+              "subtitles-generator",
+              "transcription",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1170,12 +2133,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "小牛视频翻译 是一款支持本地视频翻译、字幕翻译和 YouTube 视频翻译下载的 AI 工具，集成自动语音识别与多语言翻译功能，助力创作者高效完成视频翻译，应用于视频本地化与视频出海场景。",
+            "homepage": null,
             "id": 765613711,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-26T07:24:15Z",
+            "open_issues": 5,
             "owner": "agan-j",
             "repo": "xiaoniu",
-            "stars": 398
+            "stars": 398,
+            "topics": [
+              "ai-subtitles",
+              "asr",
+              "multilingual",
+              "speech-recognition",
+              "speech-to-text",
+              "subtitle-translation",
+              "text-to-speech",
+              "video-localization",
+              "video-translation",
+              "youtube-downloader"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1186,12 +2165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+            "homepage": null,
             "id": 1262769725,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-08T10:24:52Z",
+            "open_issues": 7,
             "owner": "xiaohuailabs",
             "repo": "xiaohu-video-translate",
-            "stars": 642
+            "stars": 643,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1202,12 +2186,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source AI video localization and dubbing for YouTube/Bilibili: speech recognition, subtitle translation, voice cloning, audio mixing and rendering. 开源 AI 视频翻译配音工具。",
+            "homepage": null,
             "id": 735872604,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T09:02:16Z",
+            "open_issues": 7,
             "owner": "liuzhao1225",
             "repo": "YouDub-webui",
-            "stars": 5374
+            "stars": 5377,
+            "topics": [
+              "ai-dubbing",
+              "ai-video-translation",
+              "bilibili",
+              "demucs",
+              "fastapi",
+              "ffmpeg",
+              "multilingual-video",
+              "nextjs",
+              "open-source",
+              "python",
+              "speech-to-text",
+              "subtitle-translation",
+              "text-to-speech",
+              "video-localization",
+              "video-translation",
+              "voice-cloning",
+              "voxcpm",
+              "whisper",
+              "youtube",
+              "youtube-translator"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1218,12 +2228,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "免费开源的 AI 剪辑 / 直播切片工具:长视频、直播回放、播客一键切成爆款竖屏短视频,直发抖音/快手/B站/小红书/视频号——AI 找高光金句、弹幕热度进爆点判断、自动加字幕、横屏转竖屏,本地运行无水印不上传 | Free open-source Opus Clip alternative, 100% local: AI clips long videos & livestream VODs into viral 9:16 shorts for TikTok & YouTube Shorts. No credits, no watermark, no uploads. Win/macOS/Linux.",
+            "homepage": "https://xixihhhh.github.io/hotclip/",
             "id": 1289069066,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T04:45:40Z",
+            "open_issues": 1,
             "owner": "xixihhhh",
             "repo": "hotclip",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "ai",
+              "ai-clip-generator",
+              "auto-subtitles",
+              "bilibili",
+              "claude-skill",
+              "desktop-app",
+              "douyin",
+              "electron",
+              "livestream",
+              "local-first",
+              "long-video-to-shorts",
+              "mcp-server",
+              "opus-clip-alternative",
+              "podcast-clipper",
+              "short-form-video",
+              "speech-recognition",
+              "tiktok",
+              "video-clipping",
+              "video-editing",
+              "youtube-shorts"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1234,12 +2270,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VideoHub 是一款本地化多平台视频处理与智能剪辑工具，支持 YouTube、抖音/TikTok、Instagram、Bilibili 和 Twitter/X，提供视频下载、Whisper 转写、字幕翻译与润色、多模型 AI 配音、影视解说、故事剪辑、音乐卡点及剧集批量处理，并可通过 Codex、Claude Code 等智能助手以自然语言完成完整工作流。",
+            "homepage": "https://videohub.my/",
             "id": 1063001928,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T14:39:09Z",
+            "open_issues": 3,
             "owner": "cacity",
             "repo": "VideoHub",
-            "stars": 129
+            "stars": 129,
+            "topics": [
+              "ai-video",
+              "coding-agents",
+              "ffmpeg",
+              "subtitles",
+              "video-editing",
+              "video-production",
+              "whisper",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         }
@@ -1256,12 +2306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator \"One Sentence to Complete Drama: Fully Automated from Script to Final Video\"",
+            "homepage": null,
             "id": 1128267392,
             "language": "Vue",
+            "license": null,
             "last_commit": "2026-08-18T15:39:51Z",
+            "open_issues": 1,
             "owner": "chatfire-AI",
             "repo": "huobao-drama",
-            "stars": 14207
+            "stars": 14215,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1272,12 +2327,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation.",
+            "homepage": "https://toonflow.net",
             "id": 1145022970,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T10:49:08Z",
+            "open_issues": 1,
             "owner": "HBAI-Ltd",
             "repo": "Toonflow-app",
-            "stars": 14806
+            "stars": 14808,
+            "topics": [
+              "ai",
+              "ai-content-creation",
+              "ai-tool",
+              "ai-video-generation",
+              "automation",
+              "content-generation",
+              "desktop-app",
+              "electron",
+              "generative-ai",
+              "image-generation",
+              "llm",
+              "nodejs",
+              "shorts",
+              "text-to-video",
+              "typescript",
+              "video-generation",
+              "vite",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1288,12 +2367,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production",
+            "homepage": "https://arc-reel.com",
             "id": 1152014383,
             "language": "Python",
-            "last_commit": "2026-08-29T02:16:11Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:50:19Z",
+            "open_issues": 140,
             "owner": "ArcReel",
             "repo": "ArcReel",
-            "stars": 4247
+            "stars": 4248,
+            "topics": [
+              "agentic-workflow",
+              "ai-agent",
+              "ai-animation",
+              "ai-video-generator",
+              "capcut",
+              "claude-agent-sdk",
+              "content-creation",
+              "docker",
+              "ffmpeg",
+              "image-to-video",
+              "multi-provider",
+              "novel-to-video",
+              "reference-to-video",
+              "script-to-video",
+              "self-hosted",
+              "short-drama",
+              "short-video",
+              "storyboard",
+              "text-to-video",
+              "video-generation"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1304,12 +2409,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎬 seedance2接入  开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线",
+            "homepage": "https://83zi.com/",
             "id": 1154273018,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T02:33:51Z",
+            "open_issues": 24,
             "owner": "xuanyustudio",
             "repo": "LocalMiniDrama",
-            "stars": 1471
+            "stars": 1471,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-mini-drama",
+              "ai-video",
+              "electron",
+              "javascript",
+              "mini-drama",
+              "nodejs",
+              "offline",
+              "offline-short-drama",
+              "open-source",
+              "short-video",
+              "short-video-maker",
+              "storyboard",
+              "video-generation",
+              "vue",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1320,12 +2448,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎬 端到端 AI 漫剧 / 动画短剧 Multi-Agent 多智能体协作创作平台 (Novella AI)。基于 Hub-and-Spoke 智能体架构、ProjectBlackboard 共享黑板、自定义 Agent 扩展插件、角色 Consistency 锚定与 4K GPU 压制。",
+            "homepage": "https://agions.github.io/novella/",
             "id": 1157652976,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T07:38:42Z",
+            "open_issues": 1,
             "owner": "Agions",
             "repo": "novella",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "agent-orchestration",
+              "ai-agent",
+              "ai-manga",
+              "ai-video-generation",
+              "desktop-app",
+              "ffmpeg-gpu",
+              "manga-generator",
+              "monorepo",
+              "multi-agent",
+              "novel-to-video",
+              "react19",
+              "rust",
+              "script-to-video",
+              "storyboard-ai",
+              "tauri-v2",
+              "tts-audio"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1336,12 +2486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI 小说推文自动化 - 小说一键转短视频（有声书+AI配图），适用于抖音/小红书",
+            "homepage": null,
             "id": 1168142802,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T11:50:41Z",
+            "open_issues": 0,
             "owner": "tyxben",
             "repo": "AI_novel",
-            "stars": 259
+            "stars": 259,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1352,12 +2507,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FastMovieAI 是一个功能完整的开源短剧/短视频创作平台，采用前后端分离架构，提供 AI 驱动的视频内容创作能力。平台集成了用户管理、支付系统、内容管理、视频生成等完整功能模块，适合内容创作者和视频制作团队使用。",
+            "homepage": null,
             "id": 1139669111,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-19T06:39:51Z",
+            "open_issues": 2,
             "owner": "xhadmincn",
             "repo": "FastMovieAI",
-            "stars": 395
+            "stars": 395,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1368,12 +2528,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NovelFlow 是一个将小说自动转换为视频的 AI 平台。文生图、图生图、图生视频都是基于开源模型及B站大佬分享的工作流。（NovelFlow is an AI platform that automatically converts novels into videos. Text-to-image, image-to-image, and image-to-video generation are all powered by open-source models and workflow templates shared by creators on Bilibili.）",
+            "homepage": null,
             "id": 1157128514,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T20:09:35Z",
+            "open_issues": 1,
             "owner": "qzw881130",
             "repo": "AI-NovelFlow",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1384,12 +2549,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎬 AI短剧创作平台 — 从剧本到成片，一站式AI短剧制作工作台。支持70+大模型(GLM5.1/DeepSeek V4/Qwen3.5等)、图片生成、视频生成(Seedance 2.0)、AI配音，多供应商配置，Next.js 16全栈构建",
+            "homepage": "https://huobao-drama-ai.vercel.app",
             "id": 1220530277,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T07:52:01Z",
+            "open_issues": 3,
             "owner": "dav-niu474",
             "repo": "huobao-drama-ai",
-            "stars": 85
+            "stars": 86,
+            "topics": [
+              "ai-creative",
+              "ai-drama",
+              "ai-image-generation",
+              "ai-video-generation",
+              "deepseek",
+              "glm5",
+              "nextjs",
+              "nvidia-nim",
+              "prisma",
+              "seedance",
+              "short-drama",
+              "storyboard",
+              "tts",
+              "typescript",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1400,12 +2586,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AIYOU - AI short drama platform. 36-day VibeCoding build. Automated workflow: concept → script → storyboard → video. 5 relay APIs integrated, possibly the only open-source tool combining core prompts & utilities. 2-3 RMB/min.",
+            "homepage": null,
             "id": 1149524684,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-05T09:32:20Z",
+            "open_issues": 1,
             "owner": "yubowen123",
             "repo": "AIYOU_open-ai-video-drama-generator",
-            "stars": 131
+            "stars": 131,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1416,12 +2607,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vynaro (叙影 AI) - 下一代 7 步全自动 AI 影视解说与第一人称视频创作工具 (Tauri 2 + Rust + React 19)",
+            "homepage": "https://agions.github.io/splicr/",
             "id": 940687176,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T05:29:08Z",
+            "open_issues": 0,
             "owner": "Agions",
             "repo": "splicr",
-            "stars": 417
+            "stars": 417,
+            "topics": [
+              "ai-video",
+              "capcut",
+              "ffmpeg",
+              "first-person-narrator",
+              "react",
+              "rust",
+              "subtitle-generator",
+              "tauri",
+              "text-to-speech",
+              "typescript",
+              "video-editing",
+              "video-narration",
+              "vynaro"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         }
@@ -1438,12 +2648,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)",
+            "homepage": "https://bibigpt.co",
             "id": 606803328,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-04T12:07:02Z",
+            "open_issues": 41,
             "owner": "JimmyLv",
             "repo": "BibiGPT-v1",
-            "stars": 6196
+            "stars": 6197,
+            "topics": [
+              "bilibili",
+              "chatgpt",
+              "gpt",
+              "gpt-3",
+              "openai",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1454,12 +2676,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI 视频笔记生成工具 让 AI 为你的视频做笔记",
+            "homepage": "https://www.bilinote.app/",
             "id": 965494890,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T06:00:31Z",
+            "open_issues": 181,
             "owner": "JefferyHcool",
             "repo": "BiliNote",
-            "stars": 7183
+            "stars": 7184,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1470,12 +2697,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。",
+            "homepage": null,
             "id": 964996396,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-02-05T15:34:45Z",
+            "open_issues": 11,
             "owner": "hanshuaikang",
             "repo": "AI-Media2Doc",
-            "stars": 3996
+            "stars": 3997,
+            "topics": [
+              "ai",
+              "bilibili",
+              "chatgpt",
+              "openai",
+              "python",
+              "subtitles-generator",
+              "vue",
+              "xiaohongshu",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1486,12 +2728,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "将抖音视频转化为结构化的深度学习笔记，并沉淀为可被mcp调用的sql知识库。",
+            "homepage": null,
             "id": 1153920562,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-15T07:51:10Z",
+            "open_issues": 0,
             "owner": "skepty2333",
             "repo": "Douyin-full-stack-summarizer",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         }
@@ -1508,12 +2755,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AIGCPanel 是一个简单易用的一站式AI数字人系统，支持视频合成、声音合成、声音克隆，简化本地模型管理、一键导入和使用AI模型。",
+            "homepage": "https://aigcpanel.com",
             "id": 874718872,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T07:45:50Z",
+            "open_issues": 5,
             "owner": "modstart-lib",
             "repo": "aigcpanel",
-            "stars": 5493
+            "stars": 5494,
+            "topics": [
+              "ai",
+              "aigc",
+              "cosyvoice",
+              "fishspeech",
+              "latentsync",
+              "musetalk",
+              "sparktts",
+              "wav2lip"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         }
@@ -1530,12 +2791,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎥      Make videos programmatically with React",
+            "homepage": "https://remotion.dev",
             "id": 274495425,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T16:12:05Z",
+            "open_issues": 173,
             "owner": "remotion-dev",
             "repo": "remotion",
-            "stars": 57638
+            "stars": 57644,
+            "topics": [
+              "javascript",
+              "react",
+              "video"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         }
@@ -1552,12 +2822,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Video editing with Python",
+            "homepage": "https://zulko.github.io/moviepy/",
             "id": 12052630,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T06:17:08Z",
+            "open_issues": 89,
             "owner": "Zulko",
             "repo": "moviepy",
-            "stars": 14871
+            "stars": 14871,
+            "topics": [
+              "animation",
+              "gif",
+              "hacktoberfest",
+              "python",
+              "video",
+              "video-editing",
+              "video-processing"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1568,12 +2851,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python bindings for FFmpeg - with complex filtering support",
+            "homepage": null,
             "id": 91222097,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-04T00:07:08Z",
+            "open_issues": 526,
             "owner": "kkroening",
             "repo": "ffmpeg-python",
-            "stars": 11008
+            "stars": 11008,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         },
@@ -1584,12 +2872,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "开源 AI 影视解说创作工坊 (Tauri 2 + Rust)。长视频 → AI 拆条 + 多 Agent 智能解说 + 本地 Whisper 字幕 + 配音合成，9:16/1:1/16:9 多格式导出，100% 本地处理零上传。",
+            "homepage": "https://agions.github.io/story-fab/",
             "id": 953523867,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T08:09:51Z",
+            "open_issues": 4,
             "owner": "Agions",
             "repo": "story-fab",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "ai-video-editing",
+              "automation",
+              "content-creation",
+              "desktop-application",
+              "ffmpeg",
+              "react",
+              "rust",
+              "short-video",
+              "social-media-tools",
+              "subtitle-generator",
+              "tauri",
+              "typescript",
+              "video-editing",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
         }
@@ -1598,15 +2906,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:25:14.969Z",
+    "last_updated": "2026-08-29T04:59:43.762Z",
     "original_repository_info": {
       "archived": false,
+      "description": "AI 视频制作与自媒体运营工具精选合集 — 涵盖一键生成、文生视频、多平台分发、字幕翻译等 150+ 开源项目，每周更新。",
+      "homepage": null,
       "id": 1215126598,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-21T02:28:06Z",
+      "open_issues": 3,
       "owner": "JuneYaooo",
       "repo": "awesome-ai-media-cn",
-      "stars": 171
+      "stars": 171,
+      "topics": [
+        "ai-video",
+        "automation",
+        "awesome",
+        "awesome-list",
+        "content-creation",
+        "short-video",
+        "social-media",
+        "subtitle-generation",
+        "text-to-video",
+        "tiktok",
+        "video-editing",
+        "video-generation"
+      ]
     },
     "original_repository_sha": "f6e9ccdbbe2bd4105657e7370738623968cd4e1c",
     "enhanced_repository": "enhansome/enhansome-ai-media-cn",
