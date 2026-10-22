@@ -15,11 +15,11 @@
             "id": 770153867,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T06:54:32Z",
-            "open_issues": 75,
+            "last_commit": "2026-10-22T09:18:39Z",
+            "open_issues": 76,
             "owner": "harry0703",
             "repo": "MoneyPrinterTurbo",
-            "stars": 133776,
+            "stars": 134219,
             "topics": [
               "ai-video-generator",
               "content-creation",
@@ -55,7 +55,7 @@
             "open_issues": 19,
             "owner": "FujiwaraChoki",
             "repo": "MoneyPrinter",
-            "stars": 14078,
+            "stars": 14080,
             "topics": [
               "automation",
               "chatgpt",
@@ -81,7 +81,7 @@
             "open_issues": 85,
             "owner": "RayVentura",
             "repo": "ShortGPT",
-            "stars": 8059,
+            "stars": 8060,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -113,7 +113,7 @@
             "open_issues": 27,
             "owner": "elebumm",
             "repo": "RedditVideoMakerBot",
-            "stars": 12550,
+            "stars": 12551,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
@@ -134,7 +134,7 @@
             "open_issues": 8,
             "owner": "linyqh",
             "repo": "NarratoAI",
-            "stars": 11486,
+            "stars": 11501,
             "topics": [
               "aiagent",
               "aiops",
@@ -162,7 +162,7 @@
             "open_issues": 79,
             "owner": "ddean2009",
             "repo": "MoneyPrinterPlus",
-            "stars": 7233,
+            "stars": 7240,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
@@ -180,10 +180,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-06-14T12:40:58Z",
-            "open_issues": 169,
+            "open_issues": 171,
             "owner": "ATH-MaaS",
             "repo": "Pixelle-Video",
-            "stars": 29264,
+            "stars": 29312,
             "topics": [
               "aigc",
               "comfyui",
@@ -206,11 +206,11 @@
             "id": 1016509116,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-20T09:00:35Z",
+            "last_commit": "2026-10-22T02:55:11Z",
             "open_issues": 19,
             "owner": "YILS-LIN",
             "repo": "short-video-factory",
-            "stars": 5834,
+            "stars": 5846,
             "topics": [
               "ai",
               "automatic",
@@ -243,10 +243,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-16T15:07:33Z",
-            "open_issues": 413,
+            "open_issues": 419,
             "owner": "calesthio",
             "repo": "OpenMontage",
-            "stars": 70601,
+            "stars": 70879,
             "topics": [
               "agent",
               "agentic-ai",
@@ -287,7 +287,7 @@
             "open_issues": 14,
             "owner": "HITsz-TMG",
             "repo": "VideoClaw",
-            "stars": 1872,
+            "stars": 1873,
             "topics": [
               "agent",
               "aigc",
@@ -431,7 +431,7 @@
             "id": 940687176,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T14:42:49Z",
+            "last_commit": "2026-10-22T01:56:03Z",
             "open_issues": 0,
             "owner": "Agions",
             "repo": "dramaxis",
@@ -495,7 +495,7 @@
             "open_issues": 14,
             "owner": "HITsz-TMG",
             "repo": "VideoClaw",
-            "stars": 1872,
+            "stars": 1873,
             "topics": [
               "agent",
               "aigc",
@@ -526,7 +526,7 @@
             "open_issues": 0,
             "owner": "witty-suckerpunch492",
             "repo": "daihuo-jianshou",
-            "stars": 330,
+            "stars": 331,
             "topics": [
               "ai-video-generation",
               "ffmpeg",
@@ -691,7 +691,7 @@
             "open_issues": 1,
             "owner": "seme-org",
             "repo": "open-director",
-            "stars": 115,
+            "stars": 116,
             "topics": [
               "ai-video",
               "gemini",
@@ -721,7 +721,7 @@
             "open_issues": 7,
             "owner": "xixihhhh",
             "repo": "clipforge",
-            "stars": 1050,
+            "stars": 1059,
             "topics": [
               "ai-ugc",
               "ai-video-creator",
@@ -763,7 +763,7 @@
             "open_issues": 0,
             "owner": "zhuixin8",
             "repo": "meiti-ai",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "ai-writing",
               "aigc",
@@ -811,7 +811,7 @@
             "open_issues": 14,
             "owner": "hpcaitech",
             "repo": "Open-Sora",
-            "stars": 29877,
+            "stars": 29872,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
@@ -832,7 +832,7 @@
             "open_issues": 388,
             "owner": "Wan-Video",
             "repo": "Wan2.1",
-            "stars": 17269,
+            "stars": 17280,
             "topics": [
               "aigc",
               "videogeneration"
@@ -856,7 +856,7 @@
             "open_issues": 497,
             "owner": "lllyasviel",
             "repo": "FramePack",
-            "stars": 17308,
+            "stars": 17310,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
@@ -905,7 +905,7 @@
             "open_issues": 187,
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanVideo",
-            "stars": 12646,
+            "stars": 12649,
             "topics": [
               "diffusion-models",
               "diffusion-transformer",
@@ -930,7 +930,7 @@
             "open_issues": 39,
             "owner": "Tencent-Hunyuan",
             "repo": "HunyuanVideo-1.5",
-            "stars": 4577,
+            "stars": 4576,
             "topics": [
               "image-to-video",
               "text-to-video",
@@ -955,7 +955,7 @@
             "open_issues": 320,
             "owner": "guoyww",
             "repo": "AnimateDiff",
-            "stars": 12274,
+            "stars": 12273,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
@@ -997,7 +997,7 @@
             "open_issues": 7,
             "owner": "xixihhhh",
             "repo": "clipforge",
-            "stars": 1050,
+            "stars": 1059,
             "topics": [
               "ai-ugc",
               "ai-video-creator",
@@ -1076,11 +1076,11 @@
             "id": 664013991,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-21T16:25:55Z",
-            "open_issues": 221,
+            "last_commit": "2026-10-22T17:13:00Z",
+            "open_issues": 223,
             "owner": "gitroomhq",
             "repo": "postiz-app",
-            "stars": 37540,
+            "stars": 37593,
             "topics": [
               "nextjs",
               "open-source",
@@ -1108,12 +1108,13 @@
             "id": 727109010,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T09:21:06Z",
+            "last_commit": "2026-10-22T18:42:22Z",
             "open_issues": 80,
             "owner": "dreammis",
             "repo": "social-auto-upload",
-            "stars": 15696,
+            "stars": 15727,
             "topics": [
+              "agent-skills",
               "bilibili",
               "douyin",
               "tiktok",
@@ -1139,7 +1140,7 @@
             "open_issues": 2,
             "owner": "kebenxiaoming",
             "repo": "matrix",
-            "stars": 972,
+            "stars": 973,
             "topics": [
               "douyin",
               "kuaishou",
@@ -1198,7 +1199,7 @@
             "open_issues": 43,
             "owner": "brightbeanxyz",
             "repo": "brightbean-studio",
-            "stars": 2546,
+            "stars": 2557,
             "topics": [
               "agpl",
               "buffer-alternative",
@@ -1256,7 +1257,7 @@
             "open_issues": 5,
             "owner": "gitcoffee-os",
             "repo": "postbot",
-            "stars": 1562,
+            "stars": 1566,
             "topics": [
               "article",
               "audio",
@@ -1296,7 +1297,7 @@
             "open_issues": 48,
             "owner": "wechatsync",
             "repo": "Wechatsync",
-            "stars": 6474,
+            "stars": 6482,
             "topics": [
               "blog",
               "chrome",
@@ -1323,11 +1324,11 @@
             "id": 116561419,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-21T16:47:03Z",
-            "open_issues": 284,
+            "last_commit": "2026-10-22T17:52:07Z",
+            "open_issues": 283,
             "owner": "biliup",
             "repo": "biliup",
-            "stars": 5525,
+            "stars": 5528,
             "topics": [
               "bilibili",
               "douyin",
@@ -1355,7 +1356,7 @@
             "open_issues": 9,
             "owner": "RyanYipeng",
             "repo": "SyncCaster",
-            "stars": 511,
+            "stars": 512,
             "topics": [
               "automation",
               "blog-publishing",
@@ -1389,7 +1390,7 @@
             "open_issues": 1,
             "owner": "iniwap",
             "repo": "AIWriteX",
-            "stars": 2130,
+            "stars": 2135,
             "topics": [
               "agents",
               "ai-agents",
@@ -1431,7 +1432,7 @@
             "open_issues": 1,
             "owner": "Laihiujin",
             "repo": "Prism",
-            "stars": 112,
+            "stars": 113,
             "topics": [
               "auto-publish",
               "automation",
@@ -1468,10 +1469,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-19T16:31:19Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "Jamailar",
             "repo": "Beav",
-            "stars": 2109,
+            "stars": 2128,
             "topics": [
               "ai-agents",
               "browser-extension",
@@ -1530,7 +1531,7 @@
             "open_issues": 13,
             "owner": "fqscfqj",
             "repo": "Y2A-Auto",
-            "stars": 3949,
+            "stars": 4016,
             "topics": [
               "acfun",
               "bilibili"
@@ -1550,11 +1551,11 @@
             "id": 887031138,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T16:44:18Z",
+            "last_commit": "2026-10-22T17:09:39Z",
             "open_issues": 23,
             "owner": "leaperone",
             "repo": "MultiPost-Extension",
-            "stars": 3677,
+            "stars": 3683,
             "topics": [
               "article",
               "automation",
@@ -1606,10 +1607,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-15T04:53:41Z",
-            "open_issues": 216,
+            "open_issues": 217,
             "owner": "NanmiCoder",
             "repo": "MediaCrawler",
-            "stars": 67614,
+            "stars": 67708,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
@@ -1630,7 +1631,7 @@
             "open_issues": 0,
             "owner": "erma0",
             "repo": "douyin",
-            "stars": 1615,
+            "stars": 1616,
             "topics": [
               "crawler",
               "douyin",
@@ -1702,7 +1703,7 @@
             "open_issues": 1,
             "owner": "TikHub",
             "repo": "TikHub-API-Python-SDK",
-            "stars": 920,
+            "stars": 921,
             "topics": [
               "api",
               "captcha-solver",
@@ -1736,11 +1737,11 @@
             "id": 140395644,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T00:22:08Z",
+            "last_commit": "2026-10-22T00:21:28Z",
             "open_issues": 16,
             "owner": "CharlesPikachu",
             "repo": "videodl",
-            "stars": 3108,
+            "stars": 3111,
             "topics": [
               "acfun",
               "baidu",
@@ -1782,7 +1783,7 @@
             "open_issues": 16,
             "owner": "wujunwei928",
             "repo": "parse-video",
-            "stars": 1074,
+            "stars": 1075,
             "topics": [
               "crawler",
               "douyin",
@@ -1809,10 +1810,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-19T16:31:19Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "Jamailar",
             "repo": "Beav",
-            "stars": 2109,
+            "stars": 2128,
             "topics": [
               "ai-agents",
               "browser-extension",
@@ -1843,10 +1844,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-21T11:34:05Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "Evil0ctal",
             "repo": "Douyin_TikTok_Download_API",
-            "stars": 20825,
+            "stars": 20849,
             "topics": [
               "bilibili",
               "crawler",
@@ -1891,10 +1892,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T17:03:30Z",
-            "open_issues": 24,
+            "open_issues": 23,
             "owner": "Huanshere",
             "repo": "VideoLingo",
-            "stars": 18876,
+            "stars": 18888,
             "topics": [
               "ai-translation",
               "dubbing",
@@ -1918,10 +1919,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-21T14:20:23Z",
-            "open_issues": 42,
+            "open_issues": 41,
             "owner": "krillinai",
             "repo": "OpenCreator",
-            "stars": 13804,
+            "stars": 13834,
             "topics": [
               "agent-skills",
               "codex-cli",
@@ -1997,7 +1998,7 @@
             "open_issues": 191,
             "owner": "YaoFANGUK",
             "repo": "video-subtitle-remover",
-            "stars": 13384,
+            "stars": 13395,
             "topics": [
               "ai",
               "deepleanring",
@@ -2024,7 +2025,7 @@
             "open_issues": 20,
             "owner": "SYSTRAN",
             "repo": "faster-whisper",
-            "stars": 26024,
+            "stars": 26055,
             "topics": [
               "deep-learning",
               "inference",
@@ -2051,10 +2052,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-19T14:14:00Z",
-            "open_issues": 357,
+            "open_issues": 358,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 54544,
+            "stars": 54570,
             "topics": [
               "inference",
               "openai",
@@ -2079,10 +2080,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-09-12T06:20:49Z",
-            "open_issues": 214,
+            "open_issues": 216,
             "owner": "WEIFENG2333",
             "repo": "VideoCaptioner",
-            "stars": 16324,
+            "stars": 16334,
             "topics": [
               "ai",
               "subtitle",
@@ -2171,7 +2172,7 @@
             "open_issues": 6,
             "owner": "corvo007",
             "repo": "MioSub",
-            "stars": 828,
+            "stars": 829,
             "topics": [
               "alignment",
               "ass-subtitles",
@@ -2261,11 +2262,11 @@
             "id": 735872604,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T19:45:03Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-22T22:40:57Z",
+            "open_issues": 9,
             "owner": "liuzhao1225",
             "repo": "YouDub-webui",
-            "stars": 5710,
+            "stars": 5721,
             "topics": [
               "ai-dubbing",
               "ai-video-translation",
@@ -2307,7 +2308,7 @@
             "open_issues": 3,
             "owner": "xixihhhh",
             "repo": "hotclip",
-            "stars": 354,
+            "stars": 359,
             "topics": [
               "ai",
               "ai-clip-generator",
@@ -2375,11 +2376,11 @@
             "id": 1015815983,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T16:24:31Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-22T19:24:52Z",
+            "open_issues": 34,
             "owner": "zhouxiaoka",
             "repo": "autoclip",
-            "stars": 9625,
+            "stars": 9649,
             "topics": [
               "ai-agent",
               "ai-video-editor",
@@ -2452,7 +2453,7 @@
             "open_issues": 0,
             "owner": "michael-chow-arch",
             "repo": "StreamLingo",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "chrome-extension",
               "live-translation",
@@ -2484,7 +2485,7 @@
             "open_issues": 0,
             "owner": "xiazhuo123456789",
             "repo": "vibe-knowledge-video",
-            "stars": 66,
+            "stars": 71,
             "topics": [
               "ai-video",
               "douyin",
@@ -2522,7 +2523,7 @@
             "open_issues": 37,
             "owner": "chatfire-AI",
             "repo": "huobao-drama",
-            "stars": 16507,
+            "stars": 16530,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
@@ -2540,10 +2541,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-20T16:19:49Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "HBAI-Ltd",
             "repo": "Toonflow-app",
-            "stars": 18823,
+            "stars": 18972,
             "topics": [
               "ai-agents",
               "ai-comic",
@@ -2581,11 +2582,11 @@
             "id": 1152014383,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-21T21:08:45Z",
-            "open_issues": 75,
+            "last_commit": "2026-10-22T11:09:28Z",
+            "open_issues": 83,
             "owner": "ArcReel",
             "repo": "ArcReel",
-            "stars": 5644,
+            "stars": 5668,
             "topics": [
               "agentic-workflow",
               "ai-agent",
@@ -2627,7 +2628,7 @@
             "open_issues": 29,
             "owner": "xuanyustudio",
             "repo": "LocalMiniDrama",
-            "stars": 2163,
+            "stars": 2176,
             "topics": [
               "ai",
               "ai-agent",
@@ -2704,7 +2705,7 @@
             "open_issues": 0,
             "owner": "tyxben",
             "repo": "AI_novel",
-            "stars": 284,
+            "stars": 285,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
@@ -2725,7 +2726,7 @@
             "open_issues": 2,
             "owner": "xhadmincn",
             "repo": "FastMovieAI",
-            "stars": 428,
+            "stars": 430,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
@@ -2742,7 +2743,7 @@
             "id": 1157128514,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T19:38:15Z",
+            "last_commit": "2026-10-22T20:45:36Z",
             "open_issues": 1,
             "owner": "qzw881130",
             "repo": "AI-NovelFlow",
@@ -2821,7 +2822,7 @@
             "id": 940687176,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T14:42:49Z",
+            "last_commit": "2026-10-22T01:56:03Z",
             "open_issues": 0,
             "owner": "Agions",
             "repo": "dramaxis",
@@ -2870,7 +2871,7 @@
             "open_issues": 41,
             "owner": "JimmyLv",
             "repo": "BibiGPT-v1",
-            "stars": 6252,
+            "stars": 6253,
             "topics": [
               "bilibili",
               "chatgpt",
@@ -2898,7 +2899,7 @@
             "open_issues": 190,
             "owner": "JefferyHcool",
             "repo": "BiliNote",
-            "stars": 7584,
+            "stars": 7592,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
@@ -2971,13 +2972,13 @@
             "description": "AIGCPanel 是一个简单易用的一站式AI数字人系统，支持视频合成、声音合成、声音克隆，简化本地模型管理、一键导入和使用AI模型。",
             "homepage": "https://aigcpanel.com",
             "id": 874718872,
-            "language": "Vue",
+            "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T07:15:10Z",
+            "last_commit": "2026-10-22T08:00:24Z",
             "open_issues": 5,
             "owner": "modstart-lib",
             "repo": "aigcpanel",
-            "stars": 5676,
+            "stars": 5679,
             "topics": [
               "cosyvoice",
               "fishspeech",
@@ -3013,11 +3014,11 @@
             "id": 274495425,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T22:37:00Z",
-            "open_issues": 177,
+            "last_commit": "2026-10-22T19:13:57Z",
+            "open_issues": 188,
             "owner": "remotion-dev",
             "repo": "remotion",
-            "stars": 66040,
+            "stars": 66360,
             "topics": [
               "javascript",
               "react",
@@ -3045,10 +3046,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-26T06:17:08Z",
-            "open_issues": 92,
+            "open_issues": 93,
             "owner": "Zulko",
             "repo": "moviepy",
-            "stars": 15010,
+            "stars": 15015,
             "topics": [
               "animation",
               "gif",
@@ -3077,7 +3078,7 @@
             "open_issues": 525,
             "owner": "kkroening",
             "repo": "ffmpeg-python",
-            "stars": 11012,
+            "stars": 11011,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:14.969Z"
@@ -3123,7 +3124,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T22:40:07.908Z",
+    "last_updated": "2026-10-22T22:41:13.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "AI 视频制作与自媒体运营工具精选合集 — 涵盖一键生成、文生视频、多平台分发、字幕翻译等 150+ 开源项目，每周更新。",
@@ -3135,7 +3136,7 @@
       "open_issues": 4,
       "owner": "JuneYaooo",
       "repo": "awesome-ai-media-cn",
-      "stars": 317,
+      "stars": 320,
       "topics": [
         "ai-video",
         "automation",
